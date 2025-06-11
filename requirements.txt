@@ -1,0 +1,13 @@
+# Core requirements
+pypresence>=4.2.0
+
+# IDA Pro modules are provided by the IDA installation itself:
+# - ida_idaapi
+# - ida_kernwin
+# - ida_funcs
+# - ida_nalt
+
+# Standard library modules used (included with Python):
+# - time
+# - logging
+# - typing

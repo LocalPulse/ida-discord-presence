@@ -2,7 +2,7 @@
 	"IDAMetadataDescriptorVersion": 1,
 	"plugin": {
 		"name": "ida-discord-presence",
-		"entryPoint": "main.py",
+		"entryPoint": "ida-discord-presence.py",
 		"categories": ["disassembly-and-processor-modules"],
 		"logoPath": "logo.png",
 		"idaVersions": "9.1",
